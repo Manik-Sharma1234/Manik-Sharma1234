@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... (will update)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me manik.manu@hotmail.com
-- I have a yotube channel! (yotube.com/@THEOP05)
+- I have a yotube channel! (youtube.com/@THEOP05)
 
 <!---
 Manik-Sharma1234/Manik-Sharma1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
